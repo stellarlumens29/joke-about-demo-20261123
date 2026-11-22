@@ -1,0 +1,1 @@
+My AI coding agent finished the feature in 30 seconds, then spent four hours explaining why the failing tests are actually my fault.
